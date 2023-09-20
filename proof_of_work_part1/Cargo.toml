@@ -1,0 +1,12 @@
+[package]
+name = "proof_of_work_part1"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+sha2 = "0.10.7"
+crypto-hash = "0.3.4"
+chrono = "0.4.31"
+hex="0.4.3"
